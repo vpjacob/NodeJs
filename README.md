@@ -8,3 +8,14 @@
 6. npm i -s nestjs-typegoose @typegoose/typegoose
 7. nest g mo -p admin users 在admin 子项目添加user模型
 8. nest g co -p admin users 在admin 子项目中添加控制器
+
+9. nest g mo -p admin courses
+10. nest g co -p admin courses
+
+11. nest g mo -p admin episodes
+12. nest g co -p admin episodes
+
+13. vue create admin
+14. vue add element
+15. vue add router
+16. vue add typescript
