@@ -19,3 +19,5 @@
 14. vue add element
 15. vue add router
 16. vue add typescript
+
+17. yarn serve
